@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="score" label="Score" language="en" table="var__m_sys_hub_action_output_a3915c5cdbc93b00c7f4d4f3ce961933">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>score</element>
+            <help/>
+            <hint/>
+            <label>Score</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_a3915c5cdbc93b00c7f4d4f3ce961933</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-22 03:45:34</sys_created_on>
+            <sys_id>b3915c5cdbc93b00c7f4d4f3ce961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Score</sys_name>
+            <sys_package display_value="Microsoft Text Analytics Spoke" source="x_snc_ms_txt">10f7929cdb303300c53951735e961977</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Microsoft Text Analytics Spoke">10f7929cdb303300c53951735e961977</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_a3915c5cdbc93b00c7f4d4f3ce961933_score_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-22 03:45:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

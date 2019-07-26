@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_category">
+    <sys_hub_category action="INSERT_OR_UPDATE">
+        <name>Content Moderation</name>
+        <order>100</order>
+        <sys_class_name>sys_hub_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-22 03:06:13</sys_created_on>
+        <sys_id>8598c018dbc93b00c7f4d4f3ce96192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content Moderation</sys_name>
+        <sys_package display_value="Microsoft Text Analytics Spoke" source="x_snc_ms_txt">10f7929cdb303300c53951735e961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Microsoft Text Analytics Spoke">10f7929cdb303300c53951735e961977</sys_scope>
+        <sys_update_name>sys_hub_category_8598c018dbc93b00c7f4d4f3ce96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-22 03:06:13</sys_updated_on>
+    </sys_hub_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=8598c018dbc93b00c7f4d4f3ce96192c"/>
+</record_update>

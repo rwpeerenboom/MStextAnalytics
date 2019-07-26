@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_ms_txt.MS_Text_Analytics</id>
+        <multiple_connections>false</multiple_connections>
+        <name>MS_Text_Analytics</name>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-22 03:14:04</sys_created_on>
+        <sys_id>5c6a8858dbc93b00c7f4d4f3ce961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ms_txt.MS_Text_Analytics</sys_name>
+        <sys_package display_value="Microsoft Text Analytics Spoke" source="x_snc_ms_txt">10f7929cdb303300c53951735e961977</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Microsoft Text Analytics Spoke">10f7929cdb303300c53951735e961977</sys_scope>
+        <sys_update_name>sys_alias_5c6a8858dbc93b00c7f4d4f3ce961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-22 03:14:04</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

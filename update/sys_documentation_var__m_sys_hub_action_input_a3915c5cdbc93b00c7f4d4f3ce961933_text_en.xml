@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="text" label="Text" language="en" table="var__m_sys_hub_action_input_a3915c5cdbc93b00c7f4d4f3ce961933">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>text</element>
+            <help/>
+            <hint/>
+            <label>Text</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_a3915c5cdbc93b00c7f4d4f3ce961933</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-22 03:45:33</sys_created_on>
+            <sys_id>27915c5cdbc93b00c7f4d4f3ce961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Text</sys_name>
+            <sys_package display_value="Microsoft Text Analytics Spoke" source="x_snc_ms_txt">10f7929cdb303300c53951735e961977</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Microsoft Text Analytics Spoke">10f7929cdb303300c53951735e961977</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_a3915c5cdbc93b00c7f4d4f3ce961933_text_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-22 03:45:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
